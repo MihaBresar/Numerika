@@ -1,2 +1,0 @@
-# Numerika
-Naloge
